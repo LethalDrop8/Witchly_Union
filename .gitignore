@@ -1,13 +1,9 @@
-# Unity (básico)
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-.vs/
-
-# Firebase Unity native binaries (pesados, rompen GitHub)
-Assets/Firebase/Plugins/x86_64/*.bundle
-Assets/Firebase/Plugins/x86_64/*.so
+# ---- Unity big generated folders / firebase native binaries ----
+Witchly4_ExtraProyecto/Assets/Firebase/Plugins/x86_64/
+Witchly4_ExtraProyecto/Assets/Firebase/Plugins/iOS/
+Witchly4_ExtraProyecto/Assets/Plugins/iOS/
+Witchly4_ExtraProyecto/Library/
+Witchly4_ExtraProyecto/Temp/
+Witchly4_ExtraProyecto/Obj/
+Witchly4_ExtraProyecto/Build/
+Witchly4_ExtraProyecto/Logs/
