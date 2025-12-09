@@ -1,9 +1,16 @@
-# ---- Unity big generated folders / firebase native binaries ----
-Witchly4_ExtraProyecto/Assets/Firebase/Plugins/x86_64/
-Witchly4_ExtraProyecto/Assets/Firebase/Plugins/iOS/
-Witchly4_ExtraProyecto/Assets/Plugins/iOS/
-Witchly4_ExtraProyecto/Library/
-Witchly4_ExtraProyecto/Temp/
-Witchly4_ExtraProyecto/Obj/
-Witchly4_ExtraProyecto/Build/
-Witchly4_ExtraProyecto/Logs/
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+obj/
+.vs/
+
+# Firebase native plugins (too large for GitHub)
+Assets/Firebase/Plugins/**/x86_64/*.so
+Assets/Firebase/Plugins/**/x86_64/*.bundle
+Assets/Firebase/Plugins/**/x86_64/*.dll
+
+# If you use builds:
+[Bb]uild/
+[Bb]uilds/
